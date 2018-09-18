@@ -1,3 +1,7 @@
+## Mysql connect to remote server
+
+`db_port` is used for setting remote port.
+
 ```mysql
 $db_host        = 'MY.IP.ADD.RESS';
 $db_user        = 'user';

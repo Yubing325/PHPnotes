@@ -1,2 +1,2 @@
 # PHPnotes
-this is the note for me to record something about PHP
+this is the note for me to take notes of PHP

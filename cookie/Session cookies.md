@@ -16,6 +16,7 @@ here is the cookie in the browser:
 
 ![Screen shot 1](/images/local_cookie_ss01.png) 
 
+<<<<<<< HEAD
 while as long as you don't close your browser, you can keep add the cookie:
 
 ```PHP
@@ -26,3 +27,5 @@ while as long as you don't close your browser, you can keep add the cookie:
 
 
 ```
+=======
+>>>>>>> amend address of image

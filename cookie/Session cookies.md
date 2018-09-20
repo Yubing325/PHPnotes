@@ -14,4 +14,5 @@ Session cookie also called browser cookie or local cookie. Because it's temporar
 
 here is the cookie in the browser:
 
-![Screen shot 1](images/local_cookie_ss01.png) 
+![Screen shot 1](/images/local_cookie_ss01.png) 
+

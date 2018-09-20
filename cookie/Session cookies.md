@@ -16,3 +16,13 @@ here is the cookie in the browser:
 
 ![Screen shot 1](/images/local_cookie_ss01.png) 
 
+while as long as you don't close your browser, you can keep add the cookie:
+
+```PHP
+<?php
+    setcookie('username2','bing');
+    setcookie('psw2','qwerasdf');
+?>
+
+
+```
